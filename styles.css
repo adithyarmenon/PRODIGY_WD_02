@@ -1,0 +1,32 @@
+body {
+  font-family: BEBAS;
+  text-align: center;
+}
+
+#current-time {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+}
+body {
+  background-color: #5bbbab;
+  font-family: BEBAS;
+  margin:0;
+  text-align: center;
+}
+
+#laps {
+  list-style: none;
+  padding: 0;
+    background-color: #4587dd;
+}
